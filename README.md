@@ -1,6 +1,6 @@
 
 ## API Reference
-URL: https://fitness-app-vercel-git-main-kr123manish.vercel.app/
+Due to security resons password removed from server.js file for testing please use this URL: https://fitness-app-vercel-git-main-kr123manish.vercel.app/
 #### CREATE Fitness Program
 
 ```
